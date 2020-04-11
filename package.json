@@ -1,0 +1,13 @@
+{
+  "name": "visualy",
+  "version": "1.0.0",
+  "description": "A simple video chat web app, built with simpleWebRtc.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "hicham maaqoul",
+  "license": "ISC"
+}
